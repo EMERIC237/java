@@ -20,6 +20,9 @@
     </nav>
 
     <div id="welcome-section" class="intro"> 
+         
+        <h2>This project is the result of jenkins + docker + ansible which are devops tools.<h2/>
+
         <h4>Hey there, from EMERIC</h4>
 
 	<h2>Your modification has been set<h2/>
