@@ -26,7 +26,7 @@
     </div>
     
     <div id="projects" class="work">
-        <h2 class="work-header">These are some of my projects..</h2>
+        <h2 class="work-header">These are some of my projects demo..</h2>
         
         
         <a href="" class="project project-tile">
