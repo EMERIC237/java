@@ -20,7 +20,10 @@
     </nav>
 
     <div id="welcome-section" class="intro"> 
-        <h1>Hey there, from EMERIC</h1>
+        <h4>Hey there, from EMERIC</h4>
+
+	<h2>Your modification has been set<h2/>
+			
 	<h4>Example for Etient</h4>
         <p>A web developer</p>
     </div>
